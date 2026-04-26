@@ -1,0 +1,119 @@
+# 📊 Sales Dashboard Project (Power BI)
+
+## 📌 Project Overview
+
+This project is an interactive **Sales Dashboard** created in **Power BI** using two CSV datasets:
+
+- `Orders.csv`
+- `Details.csv`
+
+The dashboard provides valuable business insights such as sales performance, profit trends, customer behavior, category-wise analysis, payment methods, and regional sales distribution.
+
+
+---
+
+## 🧾 Dataset Information
+
+### 1️⃣ Orders.csv
+
+Contains 500 records with the following columns:
+
+- Order ID
+- Order Date
+- Customer Name
+- State
+- City
+
+### 2️⃣ Details.csv
+
+Contains 1500 records with the following columns:
+
+- Order ID
+- Amount
+- Profit
+- Quantity
+- Category
+- Sub-Category
+- PaymentMode
+
+---
+
+## 📈 Dashboard Features
+
+### ✅ KPI Cards
+
+- Total Sales
+- Total Profit
+- Total Quantity Sold
+- Total Orders
+
+### 📊 Visualizations Included
+
+- Sales by Category
+- Profit by Sub-Category
+- State-wise Sales Analysis
+- Monthly Sales Trend
+- Payment Mode Distribution
+- Top Performing Cities
+- Quantity Sold by Category
+
+### 🎛 Filters / Slicers
+
+- State
+- City
+- Category
+- Payment Mode
+- Order Date
+
+---
+
+## 📌 Key Insights
+
+- Total Sales: ₹437,771
+- Total Profit: ₹36,963
+- Total Quantity Sold: 5,615 Units
+- Top Categories: Electronics, Furniture, Clothing
+- Most Used Payment Mode: COD
+
+---
+
+## 🛠 Tools Used
+
+- Power BI Desktop
+- Microsoft Excel / CSV Files
+- Data Cleaning
+- Data Modeling
+- DAX Measures
+- Interactive Visualization
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Data Analysis
+- Dashboard Design
+- Power BI Reporting
+- DAX Calculations
+- Business Intelligence
+- Data Visualization
+
+---
+
+## 🚀 How to Use
+
+1. Download the `.pbix` file  
+2. Open in Power BI Desktop  
+3. Refresh data if needed  
+4. Explore dashboard using filters and slicers
+
+
+---
+
+## 👤 Author
+
+**Guneet Singh**  
+Aspiring Data Analyst | Power BI | SQL | Excel | Pyhton
+
+---
+
+## ⭐ If you like this project, give it a star on GitHub!
